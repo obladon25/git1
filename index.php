@@ -9,5 +9,12 @@
 
 	<h1>Le GIT Project</h1>
 	<p>COmit principal la care ne vom intoarce</p>
+
+	<script type="text/javascript">
+		
+		console.log('Text salut');
+
+	</script>
+
 </body>
 </html>
