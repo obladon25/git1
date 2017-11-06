@@ -14,7 +14,7 @@
 		
 		console.log('Text salut');
 
-	</script>
+	</script> 
 
 </body>
 </html>
