@@ -3,7 +3,7 @@
 <head>
 	<title>My first GIT Project</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-
+	<script src="js/script.js" type="text/javascript"></script>
 </head>
 <body>
 
