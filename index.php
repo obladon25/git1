@@ -8,6 +8,6 @@
 <body>
 
 	<h1>Le GIT Project</h1>
-
+	<p>COmit principal la care ne vom intoarce</p>
 </body>
 </html>
